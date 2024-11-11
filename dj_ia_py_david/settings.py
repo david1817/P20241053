@@ -89,7 +89,7 @@ WSGI_APPLICATION = 'dj_ia_py_david.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'INGRESAR_BD',               # El nombre de tu base de datos
+        'NAME': 'railway',               # El nombre de tu base de datos
         'USER': 'root',                      # El usuario de MySQL
         'PASSWORD': 'INGRESAR_PASSWORD',  # La contraseña de MySQL
         'HOST': 'INGRESAR_HOST',  # El host del servidor MySQL
